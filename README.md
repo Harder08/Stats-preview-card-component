@@ -17,8 +17,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-page-using-css-flexbox-WaFoGBBZY8)
+- Live Site URL: [here](https://stats-preview-card-component-sage-iota.vercel.app/)
 
 
 ### Built with
